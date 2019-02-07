@@ -1,0 +1,6 @@
+framework module PBMobileAS {
+  umbrella header "PBMobileAS-umbrella.h"
+
+  export *
+  module * { export * }
+}

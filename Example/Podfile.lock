@@ -1,0 +1,16 @@
+PODS:
+  - PBMobileAS (0.1.0)
+
+DEPENDENCIES:
+  - PBMobileAS (from `../`)
+
+EXTERNAL SOURCES:
+  PBMobileAS:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PBMobileAS: d91779cc4fed166560b634d8782f5f75fc3d0e24
+
+PODFILE CHECKSUM: 470e1f3a0163f4ce8fa44b75898bdab1796db0bd
+
+COCOAPODS: 1.6.0

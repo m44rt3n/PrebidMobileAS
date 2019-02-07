@@ -1,0 +1,22 @@
+{
+  "name": "PBMobileAS",
+  "version": "0.1.0",
+  "summary": "A short description of PBMobileAS.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/m44rt3n/PBMobileAS",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "m44rt3n": "maarten.vrijens@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/m44rt3n/PBMobileAS.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PBMobileAS/Classes/**/*"
+}
